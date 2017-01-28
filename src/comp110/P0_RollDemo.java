@@ -2,6 +2,8 @@ package comp110;
 
 import comp110.toys.Die;
 
+// This is just a demo file. You do not need to change this
+// or add your ONYEN.
 public class P0_RollDemo {
 
 	public static void main(String[] args) {
